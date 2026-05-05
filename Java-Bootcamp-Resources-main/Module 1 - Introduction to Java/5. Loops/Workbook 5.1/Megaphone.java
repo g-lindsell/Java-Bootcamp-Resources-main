@@ -5,5 +5,4 @@ public class Megaphone {
             System.out.println(i + "." + "If Java was easy, they would call it Python!");
         }
     }
-
 }
